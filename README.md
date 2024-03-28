@@ -10,3 +10,6 @@ there are 3 steps you need to do
 2.commit you changes -> git commit -m "<Your messege>"
 3.push you changes -> git push origin main<branchname>
 git is easy
+
+To create a branch
+git checkout -b "<branchname>"
