@@ -9,3 +9,4 @@ there are 3 steps you need to do
 1.Stage your changes -> git add<file name> or if you want to upload all, use git add \*
 2.commit you changes -> git commit -m "<Your messege>"
 3.push you changes -> git push origin main<branchname>
+git is easy
